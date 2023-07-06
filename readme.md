@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://geometries.vercel.app/
+[Geometries](https://geometries.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
